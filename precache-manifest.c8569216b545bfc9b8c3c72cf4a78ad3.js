@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e62e27d977909f0aab09426dd0e9ffd2",
+    "revision": "45a2e5d87d6dc36d2e70336c8c3af377",
     "url": "/darkwiremusic/index.html"
   },
   {
-    "revision": "65e97f4d77454c72d499",
+    "revision": "be09c5d8be34d7505147",
     "url": "/darkwiremusic/static/css/main.aa6c7b8a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/darkwiremusic/static/js/2.652e4f0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65e97f4d77454c72d499",
-    "url": "/darkwiremusic/static/js/main.d06cce38.chunk.js"
+    "revision": "be09c5d8be34d7505147",
+    "url": "/darkwiremusic/static/js/main.2a9b89ae.chunk.js"
   },
   {
     "revision": "647ffde3c2847ac1bade",
