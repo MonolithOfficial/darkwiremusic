@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MonolithOfficial/darkwiremusic/static/css/main.aa6c7b8a.chunk.css",
-    "main.js": "/MonolithOfficial/darkwiremusic/static/js/main.62813795.chunk.js",
-    "main.js.map": "/MonolithOfficial/darkwiremusic/static/js/main.62813795.chunk.js.map",
-    "runtime-main.js": "/MonolithOfficial/darkwiremusic/static/js/runtime-main.f3885045.js",
-    "runtime-main.js.map": "/MonolithOfficial/darkwiremusic/static/js/runtime-main.f3885045.js.map",
-    "static/js/2.652e4f0b.chunk.js": "/MonolithOfficial/darkwiremusic/static/js/2.652e4f0b.chunk.js",
-    "static/js/2.652e4f0b.chunk.js.map": "/MonolithOfficial/darkwiremusic/static/js/2.652e4f0b.chunk.js.map",
-    "index.html": "/MonolithOfficial/darkwiremusic/index.html",
-    "precache-manifest.33591ecf8449bd023a91a33dcbd17016.js": "/MonolithOfficial/darkwiremusic/precache-manifest.33591ecf8449bd023a91a33dcbd17016.js",
-    "service-worker.js": "/MonolithOfficial/darkwiremusic/service-worker.js",
-    "static/css/main.aa6c7b8a.chunk.css.map": "/MonolithOfficial/darkwiremusic/static/css/main.aa6c7b8a.chunk.css.map",
-    "static/js/2.652e4f0b.chunk.js.LICENSE.txt": "/MonolithOfficial/darkwiremusic/static/js/2.652e4f0b.chunk.js.LICENSE.txt",
-    "static/media/darkwirecover.png": "/MonolithOfficial/darkwiremusic/static/media/darkwirecover.4bb2a429.png"
+    "main.css": "/darkwiremusic/static/css/main.aa6c7b8a.chunk.css",
+    "main.js": "/darkwiremusic/static/js/main.c30d8078.chunk.js",
+    "main.js.map": "/darkwiremusic/static/js/main.c30d8078.chunk.js.map",
+    "runtime-main.js": "/darkwiremusic/static/js/runtime-main.b0948f71.js",
+    "runtime-main.js.map": "/darkwiremusic/static/js/runtime-main.b0948f71.js.map",
+    "static/js/2.652e4f0b.chunk.js": "/darkwiremusic/static/js/2.652e4f0b.chunk.js",
+    "static/js/2.652e4f0b.chunk.js.map": "/darkwiremusic/static/js/2.652e4f0b.chunk.js.map",
+    "index.html": "/darkwiremusic/index.html",
+    "precache-manifest.8a4782667733f315129663d963a8ba5d.js": "/darkwiremusic/precache-manifest.8a4782667733f315129663d963a8ba5d.js",
+    "service-worker.js": "/darkwiremusic/service-worker.js",
+    "static/css/main.aa6c7b8a.chunk.css.map": "/darkwiremusic/static/css/main.aa6c7b8a.chunk.css.map",
+    "static/js/2.652e4f0b.chunk.js.LICENSE.txt": "/darkwiremusic/static/js/2.652e4f0b.chunk.js.LICENSE.txt",
+    "static/media/darkwirecover.png": "/darkwiremusic/static/media/darkwirecover.4bb2a429.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3885045.js",
+    "static/js/runtime-main.b0948f71.js",
     "static/js/2.652e4f0b.chunk.js",
     "static/css/main.aa6c7b8a.chunk.css",
-    "static/js/main.62813795.chunk.js"
+    "static/js/main.c30d8078.chunk.js"
   ]
 }
