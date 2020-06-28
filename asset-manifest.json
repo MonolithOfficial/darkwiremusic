@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MonolithOfficial/darkwiremusic/static/css/main.aa6c7b8a.chunk.css",
-    "main.js": "/MonolithOfficial/darkwiremusic/static/js/main.b34eb7e1.chunk.js",
-    "main.js.map": "/MonolithOfficial/darkwiremusic/static/js/main.b34eb7e1.chunk.js.map",
+    "main.js": "/MonolithOfficial/darkwiremusic/static/js/main.ac967025.chunk.js",
+    "main.js.map": "/MonolithOfficial/darkwiremusic/static/js/main.ac967025.chunk.js.map",
     "runtime-main.js": "/MonolithOfficial/darkwiremusic/static/js/runtime-main.e899a46f.js",
     "runtime-main.js.map": "/MonolithOfficial/darkwiremusic/static/js/runtime-main.e899a46f.js.map",
     "static/js/2.75560b45.chunk.js": "/MonolithOfficial/darkwiremusic/static/js/2.75560b45.chunk.js",
     "static/js/2.75560b45.chunk.js.map": "/MonolithOfficial/darkwiremusic/static/js/2.75560b45.chunk.js.map",
     "index.html": "/MonolithOfficial/darkwiremusic/index.html",
-    "precache-manifest.c2dbb4c2a3899ae1a346b591ba2e61ae.js": "/MonolithOfficial/darkwiremusic/precache-manifest.c2dbb4c2a3899ae1a346b591ba2e61ae.js",
+    "precache-manifest.a4a82ddbc1edede23c7d87560da5c9ae.js": "/MonolithOfficial/darkwiremusic/precache-manifest.a4a82ddbc1edede23c7d87560da5c9ae.js",
     "service-worker.js": "/MonolithOfficial/darkwiremusic/service-worker.js",
     "static/css/main.aa6c7b8a.chunk.css.map": "/MonolithOfficial/darkwiremusic/static/css/main.aa6c7b8a.chunk.css.map",
     "static/js/2.75560b45.chunk.js.LICENSE.txt": "/MonolithOfficial/darkwiremusic/static/js/2.75560b45.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e899a46f.js",
     "static/js/2.75560b45.chunk.js",
     "static/css/main.aa6c7b8a.chunk.css",
-    "static/js/main.b34eb7e1.chunk.js"
+    "static/js/main.ac967025.chunk.js"
   ]
 }

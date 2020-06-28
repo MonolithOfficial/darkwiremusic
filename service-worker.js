@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MonolithOfficial/darkwiremusic/precache-manifest.c2dbb4c2a3899ae1a346b591ba2e61ae.js"
+  "/MonolithOfficial/darkwiremusic/precache-manifest.a4a82ddbc1edede23c7d87560da5c9ae.js"
 );
 
 self.addEventListener('message', (event) => {
