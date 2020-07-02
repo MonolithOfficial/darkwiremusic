@@ -56,7 +56,7 @@ export class Slideshow extends Component {
                 )
             })
         ) : (
-            <h3 className="loading"></h3>
+            <h3 className="loading">Loading, please wait</h3>
         )
         
         return (
