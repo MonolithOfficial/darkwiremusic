@@ -11,10 +11,10 @@ const Footer = (props) => {
             <div id="footerCopyright">
                 <p>Darkwire, a property of Darkroom Laboratories</p>
                 <ul>
-                    <li><a href="/">Terms-Conditions</a></li>
-                    <li><a href="/">Privacy-Policy</a></li>
-                    <li><a href="/">GDPR - General Data Protection Regulation </a></li>
-                    <li><a href="/">Contact</a></li>
+                    <li><a href="!#">Terms-Conditions</a></li>
+                    <li><a href="!#">Privacy-Policy</a></li>
+                    <li><a href="!#">GDPR - General Data Protection Regulation </a></li>
+                    <li><a href="!#">Contact</a></li>
                 </ul>
             </div>
             
