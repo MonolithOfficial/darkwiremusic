@@ -44,7 +44,7 @@ export class Slideshow extends Component {
             slides.map(slide => {
                 return (
 
-                    <Link to={"/" + slide.content} key={slide.number}>
+                    <Link to={"/" + slide.content.split('.')[0]} key={slide.number}>
                         <div className="mySlides fade">
                             <div className="numbertext">{slide.number} / {slides.length}</div>
                             <img src={"https://raw.githubusercontent.com/MonolithOfficial/darkwirejsons/master/images/" + slide.photo} alt="" style={{width: "100%"}}/>
