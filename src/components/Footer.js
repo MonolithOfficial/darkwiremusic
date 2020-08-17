@@ -2,7 +2,9 @@ import React from 'react'
 
 const Footer = (props) => {
     const { articleProps } = props;
-    console.log(articleProps)
+    for (let x = 0; x < articleProps.length; x++){
+        console.log(articleProps[x].title)
+    }
     return (
         <div id="footer">
             <div id="footerContent">

@@ -6,6 +6,7 @@ import Article from './components/Article'
 import Footer from './components/Footer'
 import darkwirecover from './images/darkwirecover.png';
 import axios from 'axios';
+import DbArticleHolder from './components/DbArticleHolder';
 
 
 
@@ -20,7 +21,7 @@ class App extends Component {
         this.setState({
           articleData: res.data
         })
-        console.log(this.state)
+        // console.log(this.state)
     })
     
   }
@@ -38,6 +39,7 @@ class App extends Component {
           <Switch>
 
             <Route exact path="/" component={Home}/>
+            {/* <Route path="/test" component={DbArticleHolder}/> */}
             <Route path="/:post_id" component={Article}/>
           </Switch>
           <Footer articleProps={this.state.articleData}/>
